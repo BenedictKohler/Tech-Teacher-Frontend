@@ -1,5 +1,5 @@
-let baseImg = 'http://localhost:8000/images/';
-let baseVid = 'http://localhost:8000/videos/';
+let baseImg = 'https://tech-teacher-backend.herokuapp.com/images/';
+let baseVid = 'https://tech-teacher-backend.herokuapp.com/videos/';
 
 let data = [
     {
